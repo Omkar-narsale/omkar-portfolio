@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 .vercel
 node_modules
 .DS_Store
 Thumbs.db
+=======
+.vercel
+node_modules
+.DS_Store
+Thumbs.db
+>>>>>>> 34df80dfdc67b1ff1d16137f0e600394b75ca8fa
